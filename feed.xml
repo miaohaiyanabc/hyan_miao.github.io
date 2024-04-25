@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>雾里看乾坤</title>
+    <link href="https://hyan_miao.github.io/feed.xml" rel="self" />
+    <link href="https://hyan_miao.github.io" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>hyan_miao</name>
+    </author>
+    <id>https://hyan_miao.github.io</id>
+
+</feed>

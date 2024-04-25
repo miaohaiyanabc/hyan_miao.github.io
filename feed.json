@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "雾里看乾坤",
+    "description": "",
+    "home_page_url": "https://hyan_miao.github.io",
+    "feed_url": "https://hyan_miao.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "hyan_miao"
+    },
+    "items": [
+    ]
+}
